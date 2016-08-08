@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "4EFFFAC11B53D5D7003CD25A"
-               BuildableName = "FA Swift.app"
-               BlueprintName = "FA Swift"
+               BlueprintIdentifier = "506AF37A1D58A9B700990A70"
+               BuildableName = "FontAwesomeSwift.framework"
+               BlueprintName = "FontAwesomeSwift"
                ReferencedContainer = "container:FA Swift.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -28,26 +28,7 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "4EFFFAD61B53D5D8003CD25A"
-               BuildableName = "FA SwiftTests.xctest"
-               BlueprintName = "FA SwiftTests"
-               ReferencedContainer = "container:FA Swift.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
       </Testables>
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "4EFFFAC11B53D5D7003CD25A"
-            BuildableName = "FA Swift.app"
-            BlueprintName = "FA Swift"
-            ReferencedContainer = "container:FA Swift.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -61,16 +42,15 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
+      <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "4EFFFAC11B53D5D7003CD25A"
-            BuildableName = "FA Swift.app"
-            BlueprintName = "FA Swift"
+            BlueprintIdentifier = "506AF37A1D58A9B700990A70"
+            BuildableName = "FontAwesomeSwift.framework"
+            BlueprintName = "FontAwesomeSwift"
             ReferencedContainer = "container:FA Swift.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -80,16 +60,15 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
+      <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "4EFFFAC11B53D5D7003CD25A"
-            BuildableName = "FA Swift.app"
-            BlueprintName = "FA Swift"
+            BlueprintIdentifier = "506AF37A1D58A9B700990A70"
+            BuildableName = "FontAwesomeSwift.framework"
+            BlueprintName = "FontAwesomeSwift"
             ReferencedContainer = "container:FA Swift.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
+      </MacroExpansion>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
