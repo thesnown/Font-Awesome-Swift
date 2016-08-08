@@ -15,5 +15,5 @@ FOUNDATION_EXPORT double FontAwesomeSwiftVersionNumber;
 FOUNDATION_EXPORT const unsigned char FontAwesomeSwiftVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <FontAwesomeSwift/PublicHeader.h>
-
+#import "FontAwesomeSwift-Swift.h"
 
